@@ -1,0 +1,41 @@
+How to get and install my theme
+After pledging $10 or more you'll have an exclusive access for my private Visual Studio 2015 Theme!
+
+
+1) Install Visual Studio Color Theme editor:
+
+https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.VisualStudio2015ColorThemeEditor
+
+2) Download my custom theme and extract it, password is "zer0vstheme"
+
+(please do not share it to anyone else, this is only meant to patrons who have pledged $10 or more.)
+
+3) Open visual studio and go to Tools -> Customize Colors.
+It should open a tab which looks like this:https://i.gyazo.com/331202c49589595d02e64bd9b3249c1d.png
+
+4) Press "Import Theme" and locate zer0.vstheme like so:
+
+https://i.gyazo.com/83048181d77af1e65afaf5c24ff2d7f4.mp4
+Then press "Apply".
+
+5) You're set! Enjoy your new VS Look! :)
+After pledging $10 or more you'll have an exclusive access for my private Visual Studio 2015 Theme!
+
+
+1) Install Visual Studio Color Theme editor:
+
+https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.VisualStudio2015ColorThemeEditor
+
+2) Download my custom theme and extract it, password is "zer0vstheme"
+
+(please do not share it to anyone else, this is only meant to patrons who have pledged $10 or more.)
+
+3) Open visual studio and go to Tools -> Customize Colors.
+It should open a tab which looks like this:https://i.gyazo.com/331202c49589595d02e64bd9b3249c1d.png
+
+4) Press "Import Theme" and locate zer0.vstheme like so:
+
+https://i.gyazo.com/83048181d77af1e65afaf5c24ff2d7f4.mp4
+Then press "Apply".
+
+5) You're set! Enjoy your new VS Look! :)
